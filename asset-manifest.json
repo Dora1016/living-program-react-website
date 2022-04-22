@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/living-program-react-website/static/css/main.da6b37b3.chunk.css",
+    "main.js": "/living-program-react-website/static/js/main.f0f2a13b.chunk.js",
+    "main.js.map": "/living-program-react-website/static/js/main.f0f2a13b.chunk.js.map",
+    "runtime-main.js": "/living-program-react-website/static/js/runtime-main.4295bf7b.js",
+    "runtime-main.js.map": "/living-program-react-website/static/js/runtime-main.4295bf7b.js.map",
+    "static/js/2.b040eda8.chunk.js": "/living-program-react-website/static/js/2.b040eda8.chunk.js",
+    "static/js/2.b040eda8.chunk.js.map": "/living-program-react-website/static/js/2.b040eda8.chunk.js.map",
+    "static/js/3.e1db653e.chunk.js": "/living-program-react-website/static/js/3.e1db653e.chunk.js",
+    "static/js/3.e1db653e.chunk.js.map": "/living-program-react-website/static/js/3.e1db653e.chunk.js.map",
+    "index.html": "/living-program-react-website/index.html",
+    "precache-manifest.ff2c2180c36a97ae7737feb07d07a758.js": "/living-program-react-website/precache-manifest.ff2c2180c36a97ae7737feb07d07a758.js",
+    "service-worker.js": "/living-program-react-website/service-worker.js",
+    "static/css/main.da6b37b3.chunk.css.map": "/living-program-react-website/static/css/main.da6b37b3.chunk.css.map",
+    "static/js/2.b040eda8.chunk.js.LICENSE.txt": "/living-program-react-website/static/js/2.b040eda8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4295bf7b.js",
+    "static/js/2.b040eda8.chunk.js",
+    "static/css/main.da6b37b3.chunk.css",
+    "static/js/main.f0f2a13b.chunk.js"
+  ]
+}
